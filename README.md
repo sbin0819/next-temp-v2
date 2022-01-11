@@ -26,3 +26,6 @@ $ yarn dev
 $ yarn build
 $ yarn deploy
 ```
+## 테스트
+- 유닛 테스트 > 코드상의 기능을 점검
+- e2e 테스트 > 실제 동작을 바탕으로 기능을 점검
